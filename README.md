@@ -1,2 +1,2 @@
-# Thesis
+## Thesis
 Thesis stuff
