@@ -75,6 +75,10 @@ class RewriteName(ast.NodeTransformer):
             ctx=node.ctx
         ), node)
 
-newtree = ast.parse(open('dummy.py').read())
-RewriteName().visit(newtree)
+# newtree = ast.parse(open('dummy.py').read())
+# RewriteName().visit(newtree)
 # print(astunparse.unparse(newtree))
+
+
+
+# hello there
